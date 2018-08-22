@@ -5,3 +5,5 @@ welcome to cr denims
  us 
  uk 
  australia
+ spain
+ portugal
